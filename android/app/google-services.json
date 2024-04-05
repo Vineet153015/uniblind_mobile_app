@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "208225528936",
+    "project_id": "uniblindapp",
+    "storage_bucket": "uniblindapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208225528936:android:02abd41bbea159515d9fdd",
+        "android_client_info": {
+          "package_name": "com.example.uniblind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrso1gBhhnQoglsR_nX5e6zzEEGl8p71s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

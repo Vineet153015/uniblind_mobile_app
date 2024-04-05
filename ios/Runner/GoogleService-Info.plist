@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB8jLuyIJT6MlXYjdBq8nDqpCxgpP5MOpM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208225528936</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.uniblind</string>
+	<key>PROJECT_ID</key>
+	<string>uniblindapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uniblindapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208225528936:ios:eb7e6e8bed3541055d9fdd</string>
+</dict>
+</plist>
